@@ -44,7 +44,14 @@
 				"Otaku no Tsuki Scan": "/proxy/api/imgur/chapter/uGc8Kee/"
 			},
 			"last_updated": "1628894806"
-
+						},
+		"184": {
+			"title": "No la odio",
+			"volume": "6",
+			"groups": {
+				"Otaku no Tsuki Scan": "/proxy/api/imgur/chapter/oVdvR2T/"
+			},
+			"last_updated": "1629094183"
 		}
 	}
 }
